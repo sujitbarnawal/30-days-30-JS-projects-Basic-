@@ -1,11 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather App/title>
+    <title>Weather App </title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    
+
+    <div class="card">
+        <div class="search">
+            <input type="text" placeholder="Enter your City" spellcheck="false">
+            <button><img src="images/search.png" alt=""></button>
+        </div>
+
+        <div class="weather">
+            <img class="weather-icon" src="images/clear.png" alt="">
+            <h1 class="temp">22°C</h1>
+            <h2 class="city">Hetauda</h2>
+
+            <div class="details">
+
+                <div class="col">
+                    <img src="images/humidity.png" alt="">
+                    <div class="humidity">
+                        <p>50%</p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="images/wind.png" alt="">
+                    <div class="wind">
+                        <p>15 Km/hr</p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="script.js"></script>
 </body>
+
 </html>
