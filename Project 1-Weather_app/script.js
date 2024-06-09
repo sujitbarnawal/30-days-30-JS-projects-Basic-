@@ -4,6 +4,7 @@ let temp=document.querySelector(".temp")
 let city=document.querySelector(".city")
 let search_input=document.querySelector(".search input")
 let search_button=document.querySelector(".search button")
+let icon=document.querySelector(".weather-icon")
 
 
 let apiKey="5548afa741f2ca138592be96c1fa8c82"
@@ -18,6 +19,20 @@ async function checkWeather(cityName){
     humidity.innerText=`${data.main.humidity}%`
     wind.innerText=`${data.wind.speed}Km/hr`
     temp.innerText=`${Math.round(data.main.temp)}°C`
+
+    if(data.weather[0].main==="Clear"){
+        icon.src="images/clear.png"
+    }else if(data.weather[0].main==="CLouds"){
+        icon.src="images/clouds.png"
+    }else if(data.weather[0].main==="Drizzle"){
+        icon.src="images/drizzle.png"
+    }else if(data.weather[0].main==="Mist"){
+        icon.src="images/mist.png"
+    }else if(data.weather[0].main==="Rain"){
+        icon.src="images/rain.png"
+    }else if(data.weather[0].main==="Snow"){
+        icon.src="images/snow.png"
+    }
 
 
 
