@@ -14,7 +14,14 @@ let apiURL="https://api.openweathermap.org/data/2.5/weather?units=metric&q="
 async function checkWeather(cityName){
     
     let response=await fetch(apiURL+cityName+`&appid=${apiKey}`)
+
+    if(response.status==404){
+        alert("Invalid City name")
+    }
+
     let data= await response.json()
+
+
 
     city.innerText=`${data.name}`
     humidity.innerText=`${data.main.humidity}%`
