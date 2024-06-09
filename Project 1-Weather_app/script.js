@@ -5,6 +5,7 @@ let city=document.querySelector(".city")
 let search_input=document.querySelector(".search input")
 let search_button=document.querySelector(".search button")
 let icon=document.querySelector(".weather-icon")
+let weather=document.querySelector(".weather")
 
 
 let apiKey="5548afa741f2ca138592be96c1fa8c82"
@@ -34,10 +35,11 @@ async function checkWeather(cityName){
         icon.src="images/snow.png"
     }
 
+    weather.style.display="block"
 
 
-    // console.log(data)
-    // console.log(data.main.humidity)
+
+    
 }
 
 search_button.addEventListener("click",()=>{
