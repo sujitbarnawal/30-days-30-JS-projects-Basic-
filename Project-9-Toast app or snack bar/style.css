@@ -1,19 +1,19 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
 }
 
-body{
+body {
     background: #f7edff;
 }
 
-.buttons{
+.buttons {
     margin: 50px;
 }
 
-.buttons button{
+.buttons button {
     background: #333;
     color: #fff;
     border: 0;
@@ -24,7 +24,7 @@ body{
     cursor: pointer;
 }
 
-#toast-box{
+#toast-box {
     position: absolute;
     bottom: 30px;
     right: 30px;
@@ -35,13 +35,13 @@ body{
     padding: 20px;
 }
 
-.message{
+.message {
     width: 400px;
     height: 80px;
     background: #fff;
     font-weight: 500;
     margin: 15px 0;
-    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     display: flex;
     align-items: center;
     position: relative;
@@ -50,26 +50,26 @@ body{
 }
 
 @keyframes moveleft {
-    100%{
+    100% {
         transform: translateX(0);
     }
 }
 
-.message i{
+.message i {
     margin: 0 20px;
     font-size: 35px;
     color: green;
 }
 
-.message.error i{
+.message.error i {
     color: red;
 }
 
-.message.invalid i{
+.message.invalid i {
     color: rgb(208, 208, 6);
 }
 
-.message::after{
+.message::after {
     content: "";
     position: absolute;
     left: 0;
@@ -81,17 +81,17 @@ body{
     animation: timer 5s linear forwards;
 }
 
-.message.error::after{
+.message.error::after {
     background: red;
 }
 
-.message.invalid::after{
+.message.invalid::after {
     background: rgb(208, 208, 6);
 }
 
 
 @keyframes timer {
-    100%{
+    100% {
         /* width: 100%; */
         width: 0;
     }
