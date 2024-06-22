@@ -63,7 +63,18 @@ Description
 
 [Website Dark Mode]()
 
-
 # Project16-Form Validation
 
 [Form Validation]()
+
+# Project17-Image Gallery Slider
+
+[Image Gallery Slider]()
+
+# Project18-Working Email Subscription Form With Google Sheets
+
+[Working Email Subscription Form With Google Sheets]()
+
+Process to deploy form to google sheet
+
+[How to deploy form to google sheets](https://github.com/jamiewilson/form-to-google-sheets)
