@@ -78,3 +78,23 @@ Description
 Process to deploy form to google sheet
 
 [How to deploy form to google sheets](https://github.com/jamiewilson/form-to-google-sheets)
+
+# Project19-Password Strength
+
+[Password Strength]()
+
+# Project20-Text to Voice Converter
+
+[Text to Voice Converter]()
+
+# Project21-Website Page Coming Soon
+
+[Website Coming Soon]()
+
+# Project22-Image Background Change Effect
+
+[Image Background Change Effect]()
+
+# Project23-Mini Calendar
+
+[Mini Calendar]()
