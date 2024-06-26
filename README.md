@@ -98,3 +98,31 @@ Process to deploy form to google sheet
 # Project23-Mini Calendar
 
 [Mini Calendar]()
+
+# Project24-Select Menu Design
+
+[Select Menu Design]()
+
+# Project25-Circular Progress Bar
+
+[Circular Progress Bar]()
+
+# Project26-Product Page Design For Website
+
+[Product Page Design For Website]()
+
+# Project27-Cryptocurrency Website
+
+[Cryptocurrency Website]()
+
+# Project28-Digital Clock
+
+[Digital Clock]()
+
+# Project29-Drag & Drop
+
+[Drag & Drop]()
+
+#Project30-Image Search Engine
+
+[Image Search Engine]()
