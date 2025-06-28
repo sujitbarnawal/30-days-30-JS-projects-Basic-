@@ -1,128 +1,64 @@
-# 30-days-30-JS-projects-Basic
-
-Description
-
-# Project1-Weather app
-
-[Weather app]()
-
-
-# Project2-To do list
-
-[To-do-list]()
-
-# Project3-Quiz app
-
-[Quiz app]()
-
-# Project4-Password Generator
-
-[Password Generator]()
-
-# Project5-Notes app
-
-[Notes app]()
-
-# Project6-Age Claculator
-
-[Age Claculator]()
-
-# Project7-Quote Generator
-
-[Quote Generator]()
-
-# Project8-Qr code Generator
-
-[Qr code Generator]()
-
-# Project9-Toast Notification
-
-[Toast Notification]()
-
-# Project10-Music player
-
-[Music player]()
-
-# Project11-StopWatch
-
-[StopWatch]()
-
-# Project12-Calculator
-
-[Calculator]()
-
-# Project13-PopUp
-
-[PopUp]()
-
-# Project14-Hide and Show Password 
-
-[Hide and Show Password]()
-
-# Project15-Website Dark Mode
-
-[Website Dark Mode]()
-
-# Project16-Form Validation
-
-[Form Validation]()
-
-# Project17-Image Gallery Slider
-
-[Image Gallery Slider]()
-
-# Project18-Working Email Subscription Form With Google Sheets
-
-[Working Email Subscription Form With Google Sheets]()
-
-Process to deploy form to google sheet
-
-[How to deploy form to google sheets](https://github.com/jamiewilson/form-to-google-sheets)
-
-# Project19-Password Strength
-
-[Password Strength]()
-
-# Project20-Text to Voice Converter
-
-[Text to Voice Converter]()
-
-# Project21-Website Page Coming Soon
-
-[Website Coming Soon]()
-
-# Project22-Image Background Change Effect
-
-[Image Background Change Effect]()
-
-# Project23-Mini Calendar
-
-[Mini Calendar]()
-
-# Project24-Select Menu Design
-
-[Select Menu Design]()
-
-# Project25-Circular Progress Bar
-
-[Circular Progress Bar]()
-
-# Project26-Product Page Design For Website
-
-[Product Page Design For Website]()
-
-# Project27-Cryptocurrency Website
-
-[Cryptocurrency Website]()
-
-# Project28-Digital Clock
-
-[Digital Clock]()
-
-# Project29-Drag & Drop
-
-[Drag & Drop]()
-
-# Project30-Image Search Engine
-
-[Image Search Engine]()
+# 📆 30 Days 30 JavaScript Projects (Basic)
+
+This repository contains **30 beginner-friendly JavaScript projects**, each designed to build fundamental front-end development skills using **HTML**, **CSS**, and **Vanilla JavaScript**. Every day brings a new mini project, helping you solidify your understanding of DOM manipulation, event handling, forms, API usage, and more.
+
+## 🚀 Tech Stack
+
+- **HTML5** – Structure and layout
+- **CSS3** – Styling and responsiveness
+- **JavaScript (ES6+)** – Logic, interactivity, and DOM manipulation
+
+## 📁 Projects List
+
+Each project is self-contained and includes all necessary files. Click to view the live demo or explore the source.
+
+| # | Project | Link |
+|--:|--------|------|
+| 1 | Weather App | [Weather App]() |
+| 2 | To-Do List | [To-Do List]() |
+| 3 | Quiz App | [Quiz App]() |
+| 4 | Password Generator | [Password Generator]() |
+| 5 | Notes App | [Notes App]() |
+| 6 | Age Calculator | [Age Calculator]() |
+| 7 | Quote Generator | [Quote Generator]() |
+| 8 | QR Code Generator | [QR Code Generator]() |
+| 9 | Toast Notification | [Toast Notification]() |
+|10 | Music Player | [Music Player]() |
+|11 | Stopwatch | [Stopwatch]() |
+|12 | Calculator | [Calculator]() |
+|13 | Popup | [Popup]() |
+|14 | Hide and Show Password | [Hide and Show Password]() |
+|15 | Website Dark Mode | [Website Dark Mode]() |
+|16 | Form Validation | [Form Validation]() |
+|17 | Image Gallery Slider | [Image Gallery Slider]() |
+|18 | Email Subscription Form (Google Sheets) | [Email Subscription Form]() |
+|19 | Password Strength Checker | [Password Strength]() |
+|20 | Text to Voice Converter | [Text to Voice Converter]() |
+|21 | Coming Soon Web Page | [Website Coming Soon]() |
+|22 | Image Background Change | [Image Background Change Effect]() |
+|23 | Mini Calendar | [Mini Calendar]() |
+|24 | Select Menu Design | [Select Menu Design]() |
+|25 | Circular Progress Bar | [Circular Progress Bar]() |
+|26 | Product Page UI | [Product Page Design]() |
+|27 | Cryptocurrency Website | [Cryptocurrency Website]() |
+|28 | Digital Clock | [Digital Clock]() |
+|29 | Drag and Drop | [Drag & Drop]() |
+|30 | Image Search Engine | [Image Search Engine]() |
+
+## 📌 Deployment Note for Project 18 (Form to Google Sheets)
+
+To deploy the **Working Email Subscription Form**, follow this guide:
+
+➡ [How to Deploy Form to Google Sheets](https://github.com/jamiewilson/form-to-google-sheets)
+
+## 🎯 Goal
+
+- Practice daily to improve JavaScript fundamentals.
+- Build a portfolio of real-world mini-projects.
+- Gain confidence in front-end development using core web technologies.
+
+## 💡 How to Use
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/sujitbarnawal/30-days-30-JS-projects-Basic-.git
